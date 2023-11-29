@@ -1,0 +1,30 @@
+.firstnav{
+    background-color: #79AC78;
+}
+#navbarNav{
+    justify-content: center;
+}
+.bckcol{
+    background-color: #D0E7D2
+    ;
+}
+.roundimg{
+    border-radius: 50%;
+}
+.skillcol{
+    background-color:#EBF3E8
+
+}
+
+.heading{
+    text-align: center;
+}
+.slide{
+    background-color:#EBF3E8
+}
+.fill1{
+    fill: #D0E7D2;
+}
+.footercol{
+    background-color: #79AC78
+}
